@@ -16,7 +16,7 @@
 # twillio_auth_token: 'b3194ec00a2a3ea0f7d8f78204a6320b'
 # twillio_number: '+12015145533'
 
-MONGODB_URI: mongodb://heroku_6fcfdrrt:9lqth3vi31n1oqoqg1gpas5hk2@ds117759.mlab.com:17759/heroku_6fcfdrrt
+MONGODB_URI: mongodb://heroku_0fg3kzj2:fn67ljtds0thembcb4rt46efsn@ds125469.mlab.com:25469/heroku_0fg3kzj2
 
 # mailer_user: 'doyoueverliftorduck@gmail.com'
 # mailer_password: 'lp5n4k3xD'
